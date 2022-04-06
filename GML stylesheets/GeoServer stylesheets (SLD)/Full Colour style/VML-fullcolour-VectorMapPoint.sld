@@ -7,16 +7,16 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
     <UserStyle>
       <Title>Product SLD - September 2018</Title>
       <Abstract>OS VectorMap&#174; Local. Ordnance Survey. &#169; Crown copyright and database rights 2018.</Abstract>
-      
+
       <FeatureTypeStyle>
-        
+
         <!-- Triangulation Station -->
-        
+
         <Rule>
           <Name>Triangulation Station - 1:1,000 to 1:5,001</Name>
-          <ogc:Filter>       
+          <ogc:Filter>
             <ogc:PropertyIsEqualTo>
-              <ogc:PropertyName>featureCode</ogc:PropertyName>
+              <ogc:PropertyName>featurecode</ogc:PropertyName>
               <ogc:Literal>15408</ogc:Literal>
             </ogc:PropertyIsEqualTo>
           </ogc:Filter>
@@ -31,12 +31,12 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
               <Size>20</Size>
             </Graphic>
           </PointSymbolizer>
-        </Rule> 
+        </Rule>
         <Rule>
           <Name>Triangulation Station - 1:5,001 to 1:15,000</Name>
-          <ogc:Filter>       
+          <ogc:Filter>
             <ogc:PropertyIsEqualTo>
-              <ogc:PropertyName>featureCode</ogc:PropertyName>
+              <ogc:PropertyName>featurecode</ogc:PropertyName>
               <ogc:Literal>15408</ogc:Literal>
             </ogc:PropertyIsEqualTo>
           </ogc:Filter>
@@ -52,14 +52,14 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
             </Graphic>
           </PointSymbolizer>
         </Rule>
-        
+
         <!-- Antiquity site -->
-        
+
         <Rule>
           <Name>Antiquity site - 1:1,000 to 1:5,001</Name>
-          <ogc:Filter>       
+          <ogc:Filter>
             <ogc:PropertyIsEqualTo>
-              <ogc:PropertyName>featureCode</ogc:PropertyName>
+              <ogc:PropertyName>featurecode</ogc:PropertyName>
               <ogc:Literal>15120</ogc:Literal>
             </ogc:PropertyIsEqualTo>
           </ogc:Filter>
@@ -77,9 +77,9 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
         </Rule>
         <Rule>
           <Name>Antiquity site - 1:5,001 to 1:15,000</Name>
-          <ogc:Filter>       
+          <ogc:Filter>
             <ogc:PropertyIsEqualTo>
-              <ogc:PropertyName>featureCode</ogc:PropertyName>
+              <ogc:PropertyName>featurecode</ogc:PropertyName>
               <ogc:Literal>15120</ogc:Literal>
             </ogc:PropertyIsEqualTo>
           </ogc:Filter>
@@ -95,14 +95,14 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
             </Graphic>
           </PointSymbolizer>
         </Rule>
-        
+
         <!-- Flow arrow -->
-        
+
         <Rule>
           <Name>Standard flow arrow</Name>
-          <ogc:Filter>       
+          <ogc:Filter>
             <ogc:PropertyIsEqualTo>
-              <ogc:PropertyName>featureCode</ogc:PropertyName>
+              <ogc:PropertyName>featurecode</ogc:PropertyName>
               <ogc:Literal>15610</ogc:Literal>
             </ogc:PropertyIsEqualTo>
           </ogc:Filter>
@@ -124,9 +124,9 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
         </Rule>
         <Rule>
           <Name>Large flow arrow</Name>
-          <ogc:Filter>       
+          <ogc:Filter>
             <ogc:PropertyIsEqualTo>
-              <ogc:PropertyName>featureCode</ogc:PropertyName>
+              <ogc:PropertyName>featurecode</ogc:PropertyName>
               <ogc:Literal>15611</ogc:Literal>
             </ogc:PropertyIsEqualTo>
           </ogc:Filter>
@@ -146,14 +146,14 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
             </Graphic>
           </PointSymbolizer>
         </Rule>
-        
+
         <!-- Pylon -->
-        
+
         <Rule>
           <Name>Pylon - 1:1,000 to 1:4,401</Name>
-          <ogc:Filter>       
+          <ogc:Filter>
             <ogc:PropertyIsEqualTo>
-              <ogc:PropertyName>featureCode</ogc:PropertyName>
+              <ogc:PropertyName>featurecode</ogc:PropertyName>
               <ogc:Literal>15104</ogc:Literal>
             </ogc:PropertyIsEqualTo>
           </ogc:Filter>
@@ -172,12 +172,12 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
               </Rotation>
             </Graphic>
           </PointSymbolizer>
-        </Rule>   
+        </Rule>
         <Rule>
           <Name>Pylon - 1:4,401 to 1:15,000</Name>
-          <ogc:Filter>       
+          <ogc:Filter>
             <ogc:PropertyIsEqualTo>
-              <ogc:PropertyName>featureCode</ogc:PropertyName>
+              <ogc:PropertyName>featurecode</ogc:PropertyName>
               <ogc:Literal>15104</ogc:Literal>
             </ogc:PropertyIsEqualTo>
           </ogc:Filter>
@@ -196,15 +196,15 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
               </Rotation>
             </Graphic>
           </PointSymbolizer>
-        </Rule>  
-        
+        </Rule>
+
         <!-- Point features water -->
-        
+
         <Rule>
           <Name>Water Point feature</Name>
-          <ogc:Filter>      
+          <ogc:Filter>
               <ogc:PropertyIsEqualTo>
-                <ogc:PropertyName>featureCode</ogc:PropertyName>
+                <ogc:PropertyName>featurecode</ogc:PropertyName>
                 <ogc:Literal>15606</ogc:Literal>
               </ogc:PropertyIsEqualTo>
              </ogc:Filter>
@@ -221,15 +221,15 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
               <Size>4</Size>
             </Graphic>
           </PointSymbolizer>
-        </Rule> 
-        
+        </Rule>
+
         <!-- Point features -->
-        
+
         <Rule>
           <Name>Point feature</Name>
-          <ogc:Filter>       
+          <ogc:Filter>
               <ogc:PropertyIsEqualTo>
-                <ogc:PropertyName>featureCode</ogc:PropertyName>
+                <ogc:PropertyName>featurecode</ogc:PropertyName>
                 <ogc:Literal>15110</ogc:Literal>
               </ogc:PropertyIsEqualTo>
             </ogc:Filter>
@@ -246,15 +246,15 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
               <Size>4</Size>
             </Graphic>
           </PointSymbolizer>
-        </Rule>  
+        </Rule>
 
 <!-- Boundary Point -->
-        
+
         <Rule>
           <Name>Boundary point</Name>
-          <ogc:Filter>       
+          <ogc:Filter>
               <ogc:PropertyIsEqualTo>
-                <ogc:PropertyName>featureCode</ogc:PropertyName>
+                <ogc:PropertyName>featurecode</ogc:PropertyName>
                 <ogc:Literal>15211</ogc:Literal>
               </ogc:PropertyIsEqualTo>
             </ogc:Filter>
@@ -271,24 +271,24 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
               <Size>4</Size>
             </Graphic>
           </PointSymbolizer>
-        </Rule>  
+        </Rule>
 
-        
+
         <!-- Spot height position -->
-        
+
         <Rule>
           <Name>Spot height Position</Name>
-          <ogc:Filter>   
-            <ogc:Or>    
+          <ogc:Filter>
+            <ogc:Or>
               <ogc:PropertyIsEqualTo>
-                <ogc:PropertyName>featureCode</ogc:PropertyName>
+                <ogc:PropertyName>featurecode</ogc:PropertyName>
                 <ogc:Literal>15405</ogc:Literal>
               </ogc:PropertyIsEqualTo>
               <ogc:PropertyIsEqualTo>
-                <ogc:PropertyName>featureCode</ogc:PropertyName>
+                <ogc:PropertyName>featurecode</ogc:PropertyName>
                 <ogc:Literal>15406</ogc:Literal>
               </ogc:PropertyIsEqualTo>
-            </ogc:Or>  
+            </ogc:Or>
           </ogc:Filter>
           <MinScaleDenominator>1000</MinScaleDenominator>
           <MaxScaleDenominator>10001</MaxScaleDenominator>
@@ -304,7 +304,7 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
             </Graphic>
           </PointSymbolizer>
         </Rule>
-        
+
       </FeatureTypeStyle>
     </UserStyle>
   </NamedLayer>

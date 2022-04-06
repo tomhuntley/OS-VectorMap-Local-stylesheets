@@ -11,13 +11,13 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
       <FeatureTypeStyle>
 
       <!-- Narrow gauge railway -->
-        
+
         <Rule>
           <Name>Narrow gauge railway (line)</Name>
           <ogc:Filter>
 <ogc:And>
 		<ogc:PropertyIsEqualTo>
-              <ogc:PropertyName>featureCode</ogc:PropertyName>
+              <ogc:PropertyName>featurecode</ogc:PropertyName>
               <ogc:Literal>15302</ogc:Literal>
             </ogc:PropertyIsEqualTo>
 <ogc:PropertyIsEqualTo>
@@ -44,7 +44,7 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
           <ogc:Filter>
 <ogc:And>
             <ogc:PropertyIsEqualTo>
-              <ogc:PropertyName>featureCode</ogc:PropertyName>
+              <ogc:PropertyName>featurecode</ogc:PropertyName>
               <ogc:Literal>15302</ogc:Literal>
             </ogc:PropertyIsEqualTo>
 <ogc:PropertyIsEqualTo>
@@ -63,15 +63,15 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
             </Stroke>
           </LineSymbolizer>
         </Rule>
-        
+
       <!-- Single track railway or siding -->
-        
+
         <Rule>
           <Name>Single track railway or siding</Name>
           <ogc:Filter>
 <ogc:And>
             <ogc:PropertyIsEqualTo>
-              <ogc:PropertyName>featureCode</ogc:PropertyName>
+              <ogc:PropertyName>featurecode</ogc:PropertyName>
               <ogc:Literal>15301</ogc:Literal>
             </ogc:PropertyIsEqualTo>
 <ogc:PropertyIsEqualTo>
@@ -93,15 +93,15 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
             </Stroke>
           </LineSymbolizer>
         </Rule>
-        
+
       <!-- Multi track railway -->
-        
+
         <Rule>
           <Name>Multi track railway</Name>
           <ogc:Filter>
 <ogc:And>
             <ogc:PropertyIsEqualTo>
-              <ogc:PropertyName>featureCode</ogc:PropertyName>
+              <ogc:PropertyName>featurecode</ogc:PropertyName>
               <ogc:Literal>15300</ogc:Literal>
             </ogc:PropertyIsEqualTo>
 <ogc:PropertyIsEqualTo>
@@ -125,7 +125,7 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
         </Rule>
 
 <!-- Railway tunnels -->
-        
+
         <Rule>
           <Name>Railway tunnels</Name>
           <ogc:Filter>
