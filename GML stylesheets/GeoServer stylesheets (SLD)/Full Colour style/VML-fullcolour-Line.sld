@@ -179,8 +179,7 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
         </Rule>
 -->
 
-	  <!-- Standard contour line (Currently commented out to turn off) -->
-<!--
+	  <!-- Standard contour line -->
         <Rule>
           <Name>Standard contour line</Name>
           <ogc:Filter>
@@ -193,12 +192,11 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
           <MaxScaleDenominator>15000</MaxScaleDenominator>
           <LineSymbolizer uom="http://www.opengeospatial.org/se/units/metre">
             <Stroke>
-              <CssParameter name="stroke">#E0945E</CssParameter>
-              <CssParameter name="stroke-width">1.863</CssParameter>
+              <CssParameter name="stroke">#E2C3AD</CssParameter>
+              <CssParameter name="stroke-width">0.9</CssParameter>
             </Stroke>
           </LineSymbolizer>
         </Rule>
--->
 
       <!-- Urban general pecked detail -->
 
@@ -575,8 +573,7 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
           </LineSymbolizer>
         </Rule>
 
-      <!-- Index contour line (Currently commented out to turn off) -->
-<!--
+      <!-- Index contour line  -->
         <Rule>
           <Name>Index contour line</Name>
           <ogc:Filter>
@@ -589,12 +586,11 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
           <MaxScaleDenominator>15000</MaxScaleDenominator>
           <LineSymbolizer uom="http://www.opengeospatial.org/se/units/metre">
             <Stroke>
-              <CssParameter name="stroke">#E0945E</CssParameter>
+              <CssParameter name="stroke">#E2C3AD</CssParameter>
               <CssParameter name="stroke-width">3.175</CssParameter>
             </Stroke>
           </LineSymbolizer>
         </Rule>
--->
 
       <!-- Overhead Peck detail -->
 

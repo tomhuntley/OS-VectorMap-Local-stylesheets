@@ -9,7 +9,7 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
       <Abstract>OS VectorMap&#174; Local. Ordnance Survey. &#169; Crown copyright and database rights 2018.</Abstract>
 
 <!-- Road Casing 0 (motorway,primary,A,B,minor,local,local access,local shared, guided busway,enclosed traffic)-->
-        
+
         <FeatureTypeStyle>
       <Rule>
           <Name>Road Casing - Level 0</Name>
@@ -215,7 +215,7 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
           </FeatureTypeStyle>
 
 <!-- Road Casing 0 (secondary access,restricted local access)-->
-        
+
         <FeatureTypeStyle>
       <Rule>
           <Name>Road Casing - Level 0</Name>
@@ -264,8 +264,8 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
         </Rule>
           </FeatureTypeStyle>
 
-<!-- Enclosed traffic area fill 0 -->     
-             
+<!-- Enclosed traffic area fill 0 -->
+
       <FeatureTypeStyle>
         <Rule>
           <Name>Enclosed Traffic Area - Level 0</Name>
@@ -299,8 +299,8 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
         </Rule>
       </FeatureTypeStyle>
 
-<!-- Restricted local access road, guided busway fill 0 -->     
-             
+<!-- Restricted local access road, guided busway fill 0 -->
+
       <FeatureTypeStyle>
         <Rule>
           <Name>Restricted Local Access Road, Guided Busway - Level 0</Name>
@@ -334,8 +334,8 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
         </Rule>
       </FeatureTypeStyle>
 
-<!-- Restricted local access road, guided busway centreline 0 -->     
-             
+<!-- Restricted local access road, guided busway centreline 0 -->
+
       <FeatureTypeStyle>
         <Rule>
           <Name>Restricted Local Access Road, Guided Busway - Level 0</Name>
@@ -370,8 +370,8 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
       </FeatureTypeStyle>
 
 
-<!-- Local road, shared use fill 0 -->     
-             
+<!-- Local road, shared use fill 0 -->
+
       <FeatureTypeStyle>
         <Rule>
           <Name>Local Road, Shared Use - Level 0</Name>
@@ -405,8 +405,8 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
         </Rule>
       </FeatureTypeStyle>
 
-<!-- Restricted local access road fill 0 -->     
-             
+<!-- Restricted local access road fill 0 -->
+
       <FeatureTypeStyle>
         <Rule>
           <Name>Restricted Local Access Road - Level 0</Name>
@@ -440,8 +440,8 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
         </Rule>
       </FeatureTypeStyle>
 
-<!-- Local access road fill 0 -->     
-             
+<!-- Local access road fill 0 -->
+
       <FeatureTypeStyle>
         <Rule>
           <Name>Local Access Road - Level 0</Name>
@@ -475,8 +475,8 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
         </Rule>
       </FeatureTypeStyle>
 
-<!-- Secondary access road fill 0 -->     
-             
+<!-- Secondary access road fill 0 -->
+
       <FeatureTypeStyle>
         <Rule>
           <Name>Secondary Access Road - Level 0</Name>
@@ -510,8 +510,8 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
         </Rule>
       </FeatureTypeStyle>
 
-<!-- Local road fill 0 -->     
-             
+<!-- Local road fill 0 -->
+
       <FeatureTypeStyle>
         <Rule>
           <Name>Local Road - Level 0</Name>
@@ -545,8 +545,8 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
         </Rule>
       </FeatureTypeStyle>
 
-<!-- Minor road fill 0 -->     
-             
+<!-- Minor road fill 0 -->
+
       <FeatureTypeStyle>
         <Rule>
           <Name>Minor Road - Level 0</Name>
@@ -580,8 +580,8 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
         </Rule>
       </FeatureTypeStyle>
 
-<!-- B road fill 0 -->     
-             
+<!-- B road fill 0 -->
+
       <FeatureTypeStyle>
         <Rule>
           <Name>B Road - Level 0</Name>
@@ -615,8 +615,8 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
         </Rule>
       </FeatureTypeStyle>
 
-<!-- B road, primary fill 0 -->     
-             
+<!-- B road, primary fill 0 -->
+
       <FeatureTypeStyle>
         <Rule>
           <Name>B Road, Primary - Level 0</Name>
@@ -650,8 +650,8 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
         </Rule>
       </FeatureTypeStyle>
 
-<!-- A road fill 0 -->     
-             
+<!-- A road fill 0 -->
+
       <FeatureTypeStyle>
         <Rule>
           <Name>A Road - Level 0</Name>
@@ -685,8 +685,8 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
         </Rule>
       </FeatureTypeStyle>
 
-<!-- A road, trunk fill 0 -->     
-             
+<!-- A road, trunk fill 0 -->
+
       <FeatureTypeStyle>
         <Rule>
           <Name>A Road, Trunk - Level 0</Name>
@@ -720,8 +720,8 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
         </Rule>
       </FeatureTypeStyle>
 
-<!-- Primary road fill 0 -->     
-             
+<!-- Primary road fill 0 -->
+
       <FeatureTypeStyle>
         <Rule>
           <Name>Primary Road - Level 0</Name>
@@ -756,8 +756,8 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
         </Rule>
       </FeatureTypeStyle>
 
-<!-- Primary road, trunk fill 0 -->     
-             
+<!-- Primary road, trunk fill 0 -->
+
       <FeatureTypeStyle>
         <Rule>
           <Name>Primary Road, Trunk - Level 0</Name>
@@ -792,8 +792,8 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
         </Rule>
       </FeatureTypeStyle>
 
-<!-- Motorway fill 0 -->     
-             
+<!-- Motorway fill 0 -->
+
       <FeatureTypeStyle>
         <Rule>
           <Name>Motorway - Level 0</Name>
@@ -829,7 +829,7 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
       </FeatureTypeStyle>
 
 <!-- Road Casing 1 (motorway,primary,A,B,minor,local,local access,local shared, guided busway,enclosed traffic)-->
-        
+
         <FeatureTypeStyle>
       <Rule>
           <Name>Road Casing - Level 1</Name>
@@ -1035,7 +1035,7 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
           </FeatureTypeStyle>
 
 <!-- Road Casing 1 (secondary access,restricted local access)-->
-        
+
         <FeatureTypeStyle>
       <Rule>
           <Name>Road Casing - Level 1</Name>
@@ -1084,8 +1084,8 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
         </Rule>
           </FeatureTypeStyle>
 
-<!-- Enclosed traffic area fill 1 -->     
-             
+<!-- Enclosed traffic area fill 1 -->
+
       <FeatureTypeStyle>
         <Rule>
           <Name>Enclosed Traffic Area - Level 1</Name>
@@ -1119,8 +1119,8 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
         </Rule>
       </FeatureTypeStyle>
 
-<!-- Restricted local access road, guided busway fill 1 -->     
-             
+<!-- Restricted local access road, guided busway fill 1 -->
+
       <FeatureTypeStyle>
         <Rule>
           <Name>Restricted Local Access Road, Guided Busway - Level 1</Name>
@@ -1154,8 +1154,8 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
         </Rule>
       </FeatureTypeStyle>
 
-<!-- Restricted local access road, guided busway centreline 1 -->     
-             
+<!-- Restricted local access road, guided busway centreline 1 -->
+
       <FeatureTypeStyle>
         <Rule>
           <Name>Restricted Local Access Road, Guided Busway - Level 0</Name>
@@ -1190,8 +1190,8 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
       </FeatureTypeStyle>
 
 
-<!-- Local road, shared use fill 1 -->     
-             
+<!-- Local road, shared use fill 1 -->
+
       <FeatureTypeStyle>
         <Rule>
           <Name>Local Road, Shared Use - Level 1</Name>
@@ -1225,8 +1225,8 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
         </Rule>
       </FeatureTypeStyle>
 
-<!-- Restricted local access road fill 1 -->     
-             
+<!-- Restricted local access road fill 1 -->
+
       <FeatureTypeStyle>
         <Rule>
           <Name>Restricted Local Access Road - Level 1</Name>
@@ -1260,8 +1260,8 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
         </Rule>
       </FeatureTypeStyle>
 
-<!-- Local access road fill 1 -->     
-             
+<!-- Local access road fill 1 -->
+
       <FeatureTypeStyle>
         <Rule>
           <Name>Local Access Road - Level 1</Name>
@@ -1295,8 +1295,8 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
         </Rule>
       </FeatureTypeStyle>
 
-<!-- Secondary access road fill 1 -->     
-             
+<!-- Secondary access road fill 1 -->
+
       <FeatureTypeStyle>
         <Rule>
           <Name>Secondary Access Road - Level 1</Name>
@@ -1330,8 +1330,8 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
         </Rule>
       </FeatureTypeStyle>
 
-<!-- Local road fill 1 -->     
-             
+<!-- Local road fill 1 -->
+
       <FeatureTypeStyle>
         <Rule>
           <Name>Local Road - Level 1</Name>
@@ -1365,8 +1365,8 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
         </Rule>
       </FeatureTypeStyle>
 
-<!-- Minor road fill 1 -->     
-             
+<!-- Minor road fill 1 -->
+
       <FeatureTypeStyle>
         <Rule>
           <Name>Minor Road - Level 1</Name>
@@ -1400,8 +1400,8 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
         </Rule>
       </FeatureTypeStyle>
 
-<!-- B road fill 1 -->     
-             
+<!-- B road fill 1 -->
+
       <FeatureTypeStyle>
         <Rule>
           <Name>B Road - Level 1</Name>
@@ -1435,8 +1435,8 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
         </Rule>
       </FeatureTypeStyle>
 
-<!-- B road, primary fill 1 -->     
-             
+<!-- B road, primary fill 1 -->
+
       <FeatureTypeStyle>
         <Rule>
           <Name>B Road, Primary - Level 1</Name>
@@ -1470,8 +1470,8 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
         </Rule>
       </FeatureTypeStyle>
 
-<!-- A road fill 1 -->     
-             
+<!-- A road fill 1 -->
+
       <FeatureTypeStyle>
         <Rule>
           <Name>A Road - Level 1</Name>
@@ -1505,8 +1505,8 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
         </Rule>
       </FeatureTypeStyle>
 
-<!-- A road, trunk fill 1 -->     
-             
+<!-- A road, trunk fill 1 -->
+
       <FeatureTypeStyle>
         <Rule>
           <Name>A Road, Trunk - Level 1</Name>
@@ -1540,8 +1540,8 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
         </Rule>
       </FeatureTypeStyle>
 
-<!-- Primary road fill 1 -->     
-             
+<!-- Primary road fill 1 -->
+
       <FeatureTypeStyle>
         <Rule>
           <Name>Primary Road - Level 1</Name>
@@ -1576,8 +1576,8 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
         </Rule>
       </FeatureTypeStyle>
 
-<!-- Primary road, trunk fill 1 -->     
-             
+<!-- Primary road, trunk fill 1 -->
+
       <FeatureTypeStyle>
         <Rule>
           <Name>Primary Road, Trunk - Level 1</Name>
@@ -1612,8 +1612,8 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
         </Rule>
       </FeatureTypeStyle>
 
-<!-- Motorway fill 1 -->     
-             
+<!-- Motorway fill 1 -->
+
       <FeatureTypeStyle>
         <Rule>
           <Name>Motorway - Level 1</Name>
@@ -1649,7 +1649,7 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
       </FeatureTypeStyle>
 
 <!-- Road Casing 2 (motorway,primary,A,B,minor,local,local access,local shared, guided busway,enclosed traffic)-->
-        
+
         <FeatureTypeStyle>
       <Rule>
           <Name>Road Casing - Level 2</Name>
@@ -1855,7 +1855,7 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
           </FeatureTypeStyle>
 
 <!-- Road Casing 2 (secondary access,restricted local access)-->
-        
+
         <FeatureTypeStyle>
       <Rule>
           <Name>Road Casing - Level 2</Name>
@@ -1904,8 +1904,8 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
         </Rule>
           </FeatureTypeStyle>
 
-<!-- Enclosed traffic area fill 2 -->     
-             
+<!-- Enclosed traffic area fill 2 -->
+
       <FeatureTypeStyle>
         <Rule>
           <Name>Enclosed Traffic Area - Level 2</Name>
@@ -1939,8 +1939,8 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
         </Rule>
       </FeatureTypeStyle>
 
-<!-- Restricted local access road, guided busway fill 2 -->     
-             
+<!-- Restricted local access road, guided busway fill 2 -->
+
       <FeatureTypeStyle>
         <Rule>
           <Name>Restricted Local Access Road, Guided Busway - Level 2</Name>
@@ -1974,8 +1974,8 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
         </Rule>
       </FeatureTypeStyle>
 
-<!-- Restricted local access road, guided busway centreline 2 -->     
-             
+<!-- Restricted local access road, guided busway centreline 2 -->
+
       <FeatureTypeStyle>
         <Rule>
           <Name>Restricted Local Access Road, Guided Busway - Level 2</Name>
@@ -2010,8 +2010,8 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
       </FeatureTypeStyle>
 
 
-<!-- Local road, shared use fill 2 -->     
-             
+<!-- Local road, shared use fill 2 -->
+
       <FeatureTypeStyle>
         <Rule>
           <Name>Local Road, Shared Use - Level 2</Name>
@@ -2045,8 +2045,8 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
         </Rule>
       </FeatureTypeStyle>
 
-<!-- Restricted local access road fill 2 -->     
-             
+<!-- Restricted local access road fill 2 -->
+
       <FeatureTypeStyle>
         <Rule>
           <Name>Restricted Local Access Road - Level 2</Name>
@@ -2080,8 +2080,8 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
         </Rule>
       </FeatureTypeStyle>
 
-<!-- Local access road fill 2 -->     
-             
+<!-- Local access road fill 2 -->
+
       <FeatureTypeStyle>
         <Rule>
           <Name>Local Access Road - Level 2</Name>
@@ -2115,8 +2115,8 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
         </Rule>
       </FeatureTypeStyle>
 
-<!-- Secondary access road fill 2 -->     
-             
+<!-- Secondary access road fill 2 -->
+
       <FeatureTypeStyle>
         <Rule>
           <Name>Secondary Access Road - Level 2</Name>
@@ -2150,8 +2150,8 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
         </Rule>
       </FeatureTypeStyle>
 
-<!-- Local road fill 2 -->     
-             
+<!-- Local road fill 2 -->
+
       <FeatureTypeStyle>
         <Rule>
           <Name>Local Road - Level 2</Name>
@@ -2185,8 +2185,8 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
         </Rule>
       </FeatureTypeStyle>
 
-<!-- Minor road fill 2 -->     
-             
+<!-- Minor road fill 2 -->
+
       <FeatureTypeStyle>
         <Rule>
           <Name>Minor Road - Level 2</Name>
@@ -2220,8 +2220,8 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
         </Rule>
       </FeatureTypeStyle>
 
-<!-- B road fill 2 -->     
-             
+<!-- B road fill 2 -->
+
       <FeatureTypeStyle>
         <Rule>
           <Name>B Road - Level 2</Name>
@@ -2255,8 +2255,8 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
         </Rule>
       </FeatureTypeStyle>
 
-<!-- B road, primary fill 2 -->     
-             
+<!-- B road, primary fill 2 -->
+
       <FeatureTypeStyle>
         <Rule>
           <Name>B Road, Primary - Level 2</Name>
@@ -2290,8 +2290,8 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
         </Rule>
       </FeatureTypeStyle>
 
-<!-- A road fill 2 -->     
-             
+<!-- A road fill 2 -->
+
       <FeatureTypeStyle>
         <Rule>
           <Name>A Road - Level 2</Name>
@@ -2325,8 +2325,8 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
         </Rule>
       </FeatureTypeStyle>
 
-<!-- A road, trunk fill 2 -->     
-             
+<!-- A road, trunk fill 2 -->
+
       <FeatureTypeStyle>
         <Rule>
           <Name>A Road, Trunk - Level 2</Name>
@@ -2360,8 +2360,8 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
         </Rule>
       </FeatureTypeStyle>
 
-<!-- Primary road fill 2 -->     
-             
+<!-- Primary road fill 2 -->
+
       <FeatureTypeStyle>
         <Rule>
           <Name>Primary Road - Level 2</Name>
@@ -2396,8 +2396,8 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
         </Rule>
       </FeatureTypeStyle>
 
-<!-- Primary road, trunk fill 2 -->     
-             
+<!-- Primary road, trunk fill 2 -->
+
       <FeatureTypeStyle>
         <Rule>
           <Name>Primary Road, Trunk - Level 2</Name>
@@ -2432,8 +2432,8 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
         </Rule>
       </FeatureTypeStyle>
 
-<!-- Motorway fill 2 -->     
-             
+<!-- Motorway fill 2 -->
+
       <FeatureTypeStyle>
         <Rule>
           <Name>Motorway - Level 2</Name>
@@ -2469,11 +2469,11 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
       </FeatureTypeStyle>
 
 <!-- Road Casing 3 (motorway)-->
-        
+
         <FeatureTypeStyle>
       <Rule>
           <Name>Road Casing - Level 3</Name>
-          <ogc:Filter>            
+          <ogc:Filter>
 <ogc:And>
               <ogc:PropertyIsEqualTo>
               <ogc:PropertyName>featureCode</ogc:PropertyName>
@@ -2503,8 +2503,8 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
           </FeatureTypeStyle>
 
 
-<!-- Motorway fill 3 -->     
-             
+<!-- Motorway fill 3 -->
+
       <FeatureTypeStyle>
         <Rule>
           <Name>Motorway - Level 3</Name>
@@ -2539,12 +2539,12 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
         </Rule>
       </FeatureTypeStyle>
 
-<!-- Road tunnels -->     
-             
+<!-- Road tunnels -->
+
       <FeatureTypeStyle>
         <Rule>
           <Name>Road Tunnels</Name>
-          <ogc:Filter>            
+          <ogc:Filter>
 <ogc:PropertyIsEqualTo>
               <ogc:PropertyName>inTunnel</ogc:PropertyName>
               <ogc:Literal>true</ogc:Literal>
@@ -2649,7 +2649,7 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
           <TextSymbolizer 		uom="http://www.opengeospatial.org/se/units/metre">
             <Label>
               <ogc:Function name="strConcat">
-                  <ogc:PropertyName>roadName				</ogc:PropertyName>
+                  <ogc:PropertyName>roadname</ogc:PropertyName>
                 <ogc:Literal>&#160;</ogc:Literal>
               </ogc:Function>
             </Label>
@@ -2750,7 +2750,7 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
           <TextSymbolizer 		uom="http://www.opengeospatial.org/se/units/metre">
             <Label>
               <ogc:Function name="strConcat">
-                  <ogc:PropertyName>roadName				</ogc:PropertyName>
+                  <ogc:PropertyName>roadname</ogc:PropertyName>
                 <ogc:Literal>&#160;</ogc:Literal>
               </ogc:Function>
             </Label>
@@ -2827,7 +2827,7 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
           <TextSymbolizer 		uom="http://www.opengeospatial.org/se/units/metre">
             <Label>
               <ogc:Function name="strConcat">
-                  <ogc:PropertyName>roadNumber				</ogc:PropertyName>
+                  <ogc:PropertyName>roadnumber</ogc:PropertyName>
                 <ogc:Literal>&#160;</ogc:Literal>
               </ogc:Function>
             </Label>
@@ -2904,7 +2904,7 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
           <TextSymbolizer 		uom="http://www.opengeospatial.org/se/units/metre">
             <Label>
               <ogc:Function name="strConcat">
-                  <ogc:PropertyName>roadNumber				</ogc:PropertyName>
+                  <ogc:PropertyName>roadnumber</ogc:PropertyName>
                 <ogc:Literal>&#160;</ogc:Literal>
               </ogc:Function>
             </Label>
@@ -2937,7 +2937,7 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
             <VendorOption name="forceLeftToRight">true</VendorOption>
           </TextSymbolizer>
         </Rule>
-      </FeatureTypeStyle>                  
+      </FeatureTypeStyle>
     </UserStyle>
   </NamedLayer>
 </StyledLayerDescriptor>

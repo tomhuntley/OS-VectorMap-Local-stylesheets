@@ -2649,7 +2649,7 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
           <TextSymbolizer 		uom="http://www.opengeospatial.org/se/units/metre">
             <Label>
               <ogc:Function name="strConcat">
-                  <ogc:PropertyName>roadname				</ogc:PropertyName>
+                  <ogc:PropertyName>roadname</ogc:PropertyName>
                 <ogc:Literal>&#160;</ogc:Literal>
               </ogc:Function>
             </Label>
@@ -2750,7 +2750,7 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
           <TextSymbolizer 		uom="http://www.opengeospatial.org/se/units/metre">
             <Label>
               <ogc:Function name="strConcat">
-                  <ogc:PropertyName>roadname				</ogc:PropertyName>
+                  <ogc:PropertyName>roadname</ogc:PropertyName>
                 <ogc:Literal>&#160;</ogc:Literal>
               </ogc:Function>
             </Label>
@@ -2766,7 +2766,7 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
             <Halo>
               <Radius>3</Radius>
               <Fill>
-                <CssParameter name="fill">#000000</CssParameter>
+                <CssParameter name="fill">#ffffff</CssParameter>
                 <CssParameter name="fill-opacity">0.8</CssParameter>
               </Fill>
             </Halo>
@@ -2827,7 +2827,7 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
           <TextSymbolizer 		uom="http://www.opengeospatial.org/se/units/metre">
             <Label>
               <ogc:Function name="strConcat">
-                  <ogc:PropertyName>roadnumber				</ogc:PropertyName>
+                  <ogc:PropertyName>roadnumber</ogc:PropertyName>
                 <ogc:Literal>&#160;</ogc:Literal>
               </ogc:Function>
             </Label>
@@ -2904,7 +2904,7 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
           <TextSymbolizer 		uom="http://www.opengeospatial.org/se/units/metre">
             <Label>
               <ogc:Function name="strConcat">
-                  <ogc:PropertyName>roadnumber				</ogc:PropertyName>
+                  <ogc:PropertyName>roadnumber</ogc:PropertyName>
                 <ogc:Literal>&#160;</ogc:Literal>
               </ogc:Function>
             </Label>
@@ -2920,7 +2920,7 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
             <Halo>
               <Radius>3</Radius>
               <Fill>
-                <CssParameter name="fill">#000000</CssParameter>
+                <CssParameter name="fill">#ffffff</CssParameter>
                 <CssParameter name="fill-opacity">0.8</CssParameter>
               </Fill>
             </Halo>
